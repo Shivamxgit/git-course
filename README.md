@@ -1,3 +1,4 @@
 # git-course
 learning git 
-author Shivam 
+<br>
+Author: Shivam 
