@@ -1,0 +1,4 @@
+passwords.txt
+
+# Ignore entire temp folder
+temp/
